@@ -1,0 +1,1 @@
+Welcome to the U.S. State Name Guessing Game! This interactive and educational game challenges players to test their knowledge of U.S. state names. Whether you're a geography enthusiast or just looking for a fun way to learn more about the United States, this game is perfect for you.
